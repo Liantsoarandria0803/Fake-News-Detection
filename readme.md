@@ -5,7 +5,7 @@
 January 2025
 
 ## Dataset Summary
-The Fake News Classification Dataset contains over 45,000 unique English-language news articles. These articles are classified as **true (1)** or **false (0)**, providing a valuable resource for fake news detection research using Transformer models.
+The Fake News Classification Dataset contains over 45,000 unique English-language news articles. These articles are classified as **true (1)** or **false (0)**, providing a valuable resource for fake news detection research using deep learning models.
 
 ## Exploratory Data Analysis (EDA)
 
